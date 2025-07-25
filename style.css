@@ -43,12 +43,13 @@ main {
     gap: 0.5rem;
 }
 
-h2 {
-    color: goldenrod
-}
-
 h1, h3, h4 {
     font-family:'Times New Roman', Times, serif;
+    padding: 0.5rem;
+}
+
+h2 {
+    color: goldenrod
     padding: 0.5rem;
 }
 
