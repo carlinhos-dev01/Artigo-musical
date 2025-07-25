@@ -60,15 +60,6 @@ footer a:hover {
     color: white;
 }
 
-.rodape {
-    color: #111111;
-    position: fixed;
-    bottom: 0%;
-    left: 0%;
-    right: 0%;
-    padding: 1rem;
-}
-
 .final {
     padding: 2rem;
 }
