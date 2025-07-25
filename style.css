@@ -56,6 +56,10 @@ p {
     padding: 1.5rem;
 }
 
+footer {
+    padding: 7rem;
+}
+
 nav a:hover {
     color: white;
 }
